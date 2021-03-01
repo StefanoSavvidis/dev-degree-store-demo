@@ -1,5 +1,11 @@
 
 # Batching and Subscriptions in DevDegree Store
+
+
+## Requirements
+
+**Make sure you have completed Code Along Milestone: GraphQL Part 2 first!**
+
 ## Batching
 
 ### Install Batch Gem
