@@ -52,6 +52,20 @@ end
 
 And that should be it! You now have batching working in your store
 
+Specifically this query
+
+```graphql
+query {
+  orders {
+    customers {
+      id 
+      firstName
+      lastName
+    }
+  }
+}
+```
+
 # Subscriptions
 
 TODO
